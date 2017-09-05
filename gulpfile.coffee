@@ -1,5 +1,5 @@
 ###
-yarn add -D require-dir
+require-dir
 ###
 
 dir = require('require-dir')
