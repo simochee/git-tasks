@@ -4,12 +4,9 @@
 
 最低限、`require-dir`パッケージが必要です。
 
-### `gulpfile.coffee`
+## Download
 
-```coffeescript
-dir = require 'require-dir'
-dir( './gulp/tasks', recurse: true )
-```
+[https://raw.githubusercontent.com/simochee/git-tasks/master/gulp/tasks/[task-name].coffee](https://raw.githubusercontent.com/simochee/git-tasks/master/gulp/tasks/)
 
 ## 仕様
 
