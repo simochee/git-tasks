@@ -12,6 +12,7 @@ module.exports =
 
     # フラグ
     isBuildFlah: false
+    isHtmlAllFrag: true
 
     # 開発用ディレクトリ
     src:
@@ -42,5 +43,5 @@ module.exports =
 
     # copyするファイル
     copy: [
-
+        '**/*.ico'
     ]
