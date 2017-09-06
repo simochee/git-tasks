@@ -27,6 +27,11 @@ iconfont($iconfontName)
     -moz-osx-font-smoothing grayscale
 ###
 
+###
+アイコンsvgへのパス
+/path/to/src/fonts/_icons/
+###
+
 gulp = require('gulp')
 
 # icon font
